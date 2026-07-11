@@ -20,17 +20,17 @@
             "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
             "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
          ],
-         "stakingRewardAddress":"0x0000000000000000000000000000000000000000",
+         "stakingRewardAddress":"0x4Fb3325a89Cd6Bef344e30bC30337Cc233DCFB0c",
          "ended":false,
          "lp":"",
          "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 70000,
+         "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+         "rate": 0,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
          "poolPid": 0,
-         "lpName": "ETH-COIN",
+         "lpName": "ETH-USDG",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0x42025eADE4e6390bAde2abBC12c232DC06a66F50"
       }
