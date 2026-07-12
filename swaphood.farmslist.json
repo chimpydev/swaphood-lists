@@ -1,10 +1,10 @@
 {
    "name":"SwapHood LP Farms",
-   "timestamp":"2026-07-12T23:00:00.455Z",
+   "timestamp":"2026-07-12T23:30:00.455Z",
    "version":{
-      "major":3,
-      "minor":2,
-      "patch":27
+      "major":4,
+      "minor":5,
+      "patch":28
    },
    "tags":{
       
@@ -25,11 +25,11 @@
          "lp":"",
          "name":"",
          "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-         "rate": 0,
+         "rate": 3750,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
-         "poolPid": 3750,
+         "poolPid": 2,
          "lpName": "ETH-HOOD",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0xeA7ba72BE3baaB20546bFdA880b7E285E5a51168"
