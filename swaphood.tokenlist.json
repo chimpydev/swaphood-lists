@@ -36,6 +36,22 @@
             "decimals": 18,
             "chainId": 4663,
             "logoURI": "https://i.ibb.co/1YWhFMNP/base-logo.png"
+        },
+        {
+            "name": "Virtuals Token",
+            "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
+            "symbol": "VIRTUAL",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://cdn.dexscreener.com/cms/images/bkl7Ue-EfiCazhHg?width=64&height=64&fit=crop&quality=95&format=auto"
+        },
+        {
+            "name": "Cash Cat",
+            "address": "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+            "symbol": "CASHCAT",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://cdn.dexscreener.com/cms/images/g1-yMcP4iMdm1Yr2?width=64&height=64&fit=crop&quality=95&format=auto"
         }
     ]
   }
