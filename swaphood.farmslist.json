@@ -49,7 +49,7 @@
          "rewardsRatio2": 0,
          "voteable": false,
          "poolPid": 3,
-         "lpName": "ETH-HOOD",
+         "lpName": "ETH-VIRTUAL",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0xD65870Dc303b9CA01e07528B220C76d5fE917126"
       }
