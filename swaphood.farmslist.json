@@ -1,10 +1,10 @@
 {
    "name":"SwapHood LP Farms",
-   "timestamp":"2026-07-13T10:30:00.455Z",
+   "timestamp":"2026-07-13T16:30:00.455Z",
    "version":{
-      "major":5,
-      "minor":6,
-      "patch":29
+      "major":6,
+      "minor":7,
+      "patch":30
    },
    "tags":{
       
@@ -61,7 +61,7 @@
             "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
          ],
          "stakingRewardAddress":"0x4Fb3325a89Cd6Bef344e30bC30337Cc233DCFB0c",
-         "ended": false,
+         "ended": true,
          "lp":"",
          "name":"",
          "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
