@@ -1,10 +1,10 @@
 {
    "name":"SwapHood LP Farms",
-   "timestamp":"2026-07-13T16:30:00.455Z",
+   "timestamp":"2026-07-13T17:30:00.455Z",
    "version":{
-      "major":6,
-      "minor":7,
-      "patch":30
+      "major":7,
+      "minor":8,
+      "patch":31
    },
    "tags":{
       
@@ -44,7 +44,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-         "rate": 250,
+         "rate": 125,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
