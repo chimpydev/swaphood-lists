@@ -1,10 +1,10 @@
 {
     "name": "Swaphood Token List",
-    "timestamp": "2026-07-14T11:00:00.455Z",
+    "timestamp": "2026-07-15T11:00:00.455Z",
     "version": {
-      "major": 3,
-      "minor": 4,
-      "patch": 6
+      "major": 4,
+      "minor": 5,
+      "patch": 7
     },
     "tags": {},
     "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -44,6 +44,14 @@
             "decimals": 18,
             "chainId": 4663,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png"
+        },
+        {
+            "name": "Ravenhood",
+            "address": "0x96765066f6a040a21EB027167D2315B707c82633",
+            "symbol": "RVH",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://i.ibb.co/KjSnbDZ9/RVHLOGO-128.png"
         },
         {
             "name": "Virtuals Token",
