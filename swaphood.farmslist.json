@@ -52,6 +52,25 @@
          "lpName": "ETH-VIRTUAL",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0xD65870Dc303b9CA01e07528B220C76d5fE917126"
+      },
+      {
+         "tokens":[
+            "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+            "0x8cC5E7E1efF4E60587f54f38eAde84444727400d"
+         ],
+         "stakingRewardAddress":"0x35Bba74364f705bF82b215f93C6c9aDccF199b0E",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+         "rate": 25,
+         "rewardsRatio1": 1,
+         "rewardsRatio2": 0,
+         "voteable": false,
+         "poolPid": 5,
+         "lpName": "ETH-VLAD",
+         "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
+         "pair":"0xCB569f42aC8CBC76DE3EC0B2747e253bcFD01C52"
       }
    ],
    "closed":[
