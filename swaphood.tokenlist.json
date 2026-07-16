@@ -1,10 +1,10 @@
 {
     "name": "Swaphood Token List",
-    "timestamp": "2026-07-15T11:00:00.455Z",
+    "timestamp": "2026-07-16T11:00:00.455Z",
     "version": {
-      "major": 4,
-      "minor": 5,
-      "patch": 7
+      "major": 5,
+      "minor": 6,
+      "patch": 8
     },
     "tags": {},
     "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -38,7 +38,7 @@
             "logoURI": "https://i.ibb.co/1YWhFMNP/base-logo.png"
         },
         {
-            "name": "Stake Liquid Hood Token",
+            "name": "Hood Liquid Staking Token",
             "address": "0xA7036C8C28F96e8cE242d0Af45d1B395B69DAF38",
             "symbol": "h33",
             "decimals": 18,
