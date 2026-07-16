@@ -38,6 +38,14 @@
             "logoURI": "https://i.ibb.co/1YWhFMNP/base-logo.png"
         },
         {
+            "name": "Stake Liquid Hood Token",
+            "address": "0xA7036C8C28F96e8cE242d0Af45d1B395B69DAF38",
+            "symbol": "h33",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://i.ibb.co/YSy0sXS/h33-logo.png"
+        },
+        {
             "name": "Ethena USDe",
             "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
             "symbol": "USDE",
