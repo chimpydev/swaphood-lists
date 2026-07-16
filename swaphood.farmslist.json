@@ -25,7 +25,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-         "rate": 3750,
+         "rate": 3500,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
@@ -71,6 +71,25 @@
          "lpName": "ETH-VLAD",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0xCB569f42aC8CBC76DE3EC0B2747e253bcFD01C52"
+      },
+      {
+         "tokens":[
+            "0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
+            "0xA7036C8C28F96e8cE242d0Af45d1B395B69DAF38"
+         ],
+         "stakingRewardAddress":"0xc640927d81BBD517679D48f5FD9AcCc472dA5366",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
+         "rate": 250,
+         "rewardsRatio1": 1,
+         "rewardsRatio2": 0,
+         "voteable": false,
+         "poolPid": 6,
+         "lpName": "HOOD-h33",
+         "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
+         "pair":"0xA2263fbba5b52aD06Eb5Fd427CeCF59F1Ce27E48"
       }
    ],
    "closed":[
