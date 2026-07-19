@@ -1,10 +1,10 @@
 {
     "name": "Swaphood Token List",
-    "timestamp": "2026-07-16T11:00:00.455Z",
+    "timestamp": "2026-07-19T11:00:00.455Z",
     "version": {
-      "major": 5,
-      "minor": 6,
-      "patch": 8
+      "major": 6,
+      "minor": 7,
+      "patch": 9
     },
     "tags": {},
     "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -76,6 +76,38 @@
             "decimals": 18,
             "chainId": 4663,
             "logoURI": "https://cdn.dexscreener.com/cms/images/g1-yMcP4iMdm1Yr2?width=64&height=64&fit=crop&quality=95&format=auto"
+        },
+        {
+            "name": "Pons",
+            "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571",
+            "symbol": "PONS",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://cdn.dexscreener.com/cms/images/dkmXs8KYMyMXjuU1?width=64&height=64&fit=crop&quality=95&format=auto"
+        },
+        {
+            "name": "TENDIES",
+            "address": "0x45242320DBB855EeA8Fd36804C6487E10E97FCF9",
+            "symbol": "TENDIES",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://cdn.dexscreener.com/cms/images/j8K5uOi-9TVXuWFJ?width=64&height=64&fit=crop&quality=95&format=auto"
+        },
+        {
+            "name": "Slvr",
+            "address": "0x791229E3EbD6CFdC3D8157f48722684173C29aD9",
+            "symbol": "SLVR",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://cdn.dexscreener.com/cms/images/scujMvPFdVV-1-Oy?width=64&height=64&fit=crop&quality=95&format=auto"
+        },
+        {
+            "name": "StonkBroker",
+            "address": "0xe934e36A439C94017B64a3FecE66AF12099aBF50",
+            "symbol": "STONKBROKER",
+            "decimals": 18,
+            "chainId": 4663,
+            "logoURI": "https://cdn.dexscreener.com/cms/images/_dQRN4wt4hctn71c?width=64&height=64&fit=crop&quality=95&format=auto"
         }
     ]
   }
