@@ -1,10 +1,10 @@
 {
    "name":"SwapHood LP Farms",
-   "timestamp":"2026-07-15T19:30:00.455Z",
+   "timestamp":"2026-07-19T19:30:00.455Z",
    "version":{
-      "major":10,
-      "minor":11,
-      "patch":34
+      "major":11,
+      "minor":12,
+      "patch":35
    },
    "tags":{
       
@@ -25,7 +25,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-         "rate": 3500,
+         "rate": 1250,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
@@ -33,25 +33,6 @@
          "lpName": "ETH-HOOD",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0xeA7ba72BE3baaB20546bFdA880b7E285E5a51168"
-      },
-      {
-         "tokens":[
-            "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-            "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31"
-         ],
-         "stakingRewardAddress":"0xFC8625a6F07f85E359abE4E7b989c45988EB366C",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-         "rate": 75,
-         "rewardsRatio1": 1,
-         "rewardsRatio2": 0,
-         "voteable": false,
-         "poolPid": 3,
-         "lpName": "ETH-VIRTUAL",
-         "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
-         "pair":"0xD65870Dc303b9CA01e07528B220C76d5fE917126"
       },
       {
          "tokens":[
@@ -82,7 +63,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
-         "rate": 250,
+         "rate": 150,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
@@ -90,6 +71,25 @@
          "lpName": "HOOD-h33",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0xA2263fbba5b52aD06Eb5Fd427CeCF59F1Ce27E48"
+      },
+      {
+         "tokens":[
+            "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+            "0xB9584884c3ac90429F6aF0CF3fBe7bAA27fF400d"
+         ],
+         "stakingRewardAddress":"0x6dF932Af2a19b57c6F7F8B1bD96DDb5095F14fAb",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+         "rate": 100,
+         "rewardsRatio1": 1,
+         "rewardsRatio2": 0,
+         "voteable": false,
+         "poolPid": 7,
+         "lpName": "ETH-TRIPLEM",
+         "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
+         "pair":"0x1A58b8d4ae7ccd2237Be6273f57121b2260207Fe"
       }
    ],
    "closed":[
@@ -111,6 +111,25 @@
          "lpName": "ETH-USDG",
          "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
          "pair":"0x42025eADE4e6390bAde2abBC12c232DC06a66F50"
+      },
+      {
+         "tokens":[
+            "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+            "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31"
+         ],
+         "stakingRewardAddress":"0xFC8625a6F07f85E359abE4E7b989c45988EB366C",
+         "ended": true,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+         "rate": 0,
+         "rewardsRatio1": 1,
+         "rewardsRatio2": 0,
+         "voteable": false,
+         "poolPid": 3,
+         "lpName": "ETH-VIRTUAL",
+         "rewardToken":"0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
+         "pair":"0xD65870Dc303b9CA01e07528B220C76d5fE917126"
       }
    ]
 }
