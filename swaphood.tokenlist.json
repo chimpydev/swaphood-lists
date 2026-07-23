@@ -1,113 +1,214 @@
 {
-    "name": "Swaphood Token List",
-    "timestamp": "2026-07-19T11:00:00.455Z",
-    "version": {
-      "major": 6,
-      "minor": 7,
-      "patch": 9
+  "name": "Swaphood Token List",
+  "timestamp": "2026-07-23T17:21:33.271Z",
+  "version": {
+    "major": 6,
+    "minor": 9,
+    "patch": 7
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": ["swaphood", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
     },
-    "tags": {},
-    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
-    "keywords": [
-      "swaphood",
-      "default"
-    ],
-    "tokens": [
-       {
-            "name": "Wrapped ETH",
-            "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-            "symbol": "WETH",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
-        },
-        {
-            "name": "Global Dollar",
-            "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
-            "symbol": "USDG",
-            "decimals": 6,
-            "chainId": 4663,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33793.png"
-        },
-        {
-            "name": "SwapHood Token",
-            "address": "0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
-            "symbol": "HOOD",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://i.ibb.co/1YWhFMNP/base-logo.png"
-        },
-        {
-            "name": "Hood Liquid Staking Token",
-            "address": "0xA7036C8C28F96e8cE242d0Af45d1B395B69DAF38",
-            "symbol": "h33",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://i.ibb.co/YSy0sXS/h33-logo.png"
-        },
-        {
-            "name": "Ethena USDe",
-            "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-            "symbol": "USDE",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png"
-        },
-        {
-            "name": "Ravenhood",
-            "address": "0x96765066f6a040a21EB027167D2315B707c82633",
-            "symbol": "RVH",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://i.ibb.co/KjSnbDZ9/RVHLOGO-128.png"
-        },
-        {
-            "name": "Virtuals Token",
-            "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
-            "symbol": "VIRTUAL",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://cdn.dexscreener.com/cms/images/bkl7Ue-EfiCazhHg?width=64&height=64&fit=crop&quality=95&format=auto"
-        },
-        {
-            "name": "Cash Cat",
-            "address": "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
-            "symbol": "CASHCAT",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://cdn.dexscreener.com/cms/images/g1-yMcP4iMdm1Yr2?width=64&height=64&fit=crop&quality=95&format=auto"
-        },
-        {
-            "name": "Pons",
-            "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571",
-            "symbol": "PONS",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://cdn.dexscreener.com/cms/images/dkmXs8KYMyMXjuU1?width=64&height=64&fit=crop&quality=95&format=auto"
-        },
-        {
-            "name": "TENDIES",
-            "address": "0x45242320DBB855EeA8Fd36804C6487E10E97FCF9",
-            "symbol": "TENDIES",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://cdn.dexscreener.com/cms/images/j8K5uOi-9TVXuWFJ?width=64&height=64&fit=crop&quality=95&format=auto"
-        },
-        {
-            "name": "Slvr",
-            "address": "0x791229E3EbD6CFdC3D8157f48722684173C29aD9",
-            "symbol": "SLVR",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://cdn.dexscreener.com/cms/images/scujMvPFdVV-1-Oy?width=64&height=64&fit=crop&quality=95&format=auto"
-        },
-        {
-            "name": "StonkBroker",
-            "address": "0xe934e36A439C94017B64a3FecE66AF12099aBF50",
-            "symbol": "STONKBROKER",
-            "decimals": 18,
-            "chainId": 4663,
-            "logoURI": "https://cdn.dexscreener.com/cms/images/_dQRN4wt4hctn71c?width=64&height=64&fit=crop&quality=95&format=auto"
-        }
-    ]
-  }
+    {
+      "name": "Global Dollar",
+      "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+      "symbol": "USDG",
+      "decimals": 6,
+      "chainId": 4663,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/33793.png"
+    },
+    {
+      "name": "SwapHood Token",
+      "address": "0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
+      "symbol": "HOOD",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://i.ibb.co/1YWhFMNP/base-logo.png"
+    },
+    {
+      "name": "Hood Liquid Staking Token",
+      "address": "0xA7036C8C28F96e8cE242d0Af45d1B395B69DAF38",
+      "symbol": "h33",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://i.ibb.co/YSy0sXS/h33-logo.png"
+    },
+    {
+      "name": "Ethena USDe",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "symbol": "USDE",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png"
+    },
+    {
+      "name": "Ravenhood",
+      "address": "0x96765066f6a040a21EB027167D2315B707c82633",
+      "symbol": "RVH",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://i.ibb.co/KjSnbDZ9/RVHLOGO-128.png"
+    },
+    {
+      "name": "Virtuals Token",
+      "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
+      "symbol": "VIRTUAL",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/bkl7Ue-EfiCazhHg?width=64&height=64&fit=crop&quality=95&format=auto"
+    },
+    {
+      "name": "Cash Cat",
+      "address": "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+      "symbol": "CASHCAT",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/g1-yMcP4iMdm1Yr2?width=64&height=64&fit=crop&quality=95&format=auto"
+    },
+    {
+      "name": "Pons",
+      "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571",
+      "symbol": "PONS",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/dkmXs8KYMyMXjuU1?width=64&height=64&fit=crop&quality=95&format=auto"
+    },
+    {
+      "name": "TENDIES",
+      "address": "0x45242320DBB855EeA8Fd36804C6487E10E97FCF9",
+      "symbol": "TENDIES",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/j8K5uOi-9TVXuWFJ?width=64&height=64&fit=crop&quality=95&format=auto"
+    },
+    {
+      "name": "Slvr",
+      "address": "0x791229E3EbD6CFdC3D8157f48722684173C29aD9",
+      "symbol": "SLVR",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/scujMvPFdVV-1-Oy?width=64&height=64&fit=crop&quality=95&format=auto"
+    },
+    {
+      "name": "StonkBroker",
+      "address": "0xe934e36A439C94017B64a3FecE66AF12099aBF50",
+      "symbol": "STONKBROKER",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/_dQRN4wt4hctn71c?width=64&height=64&fit=crop&quality=95&format=auto"
+    },
+    {
+      "name": "Apple • Robinhood Token",
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "symbol": "AAPL",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xaf3d76f1834a1d425780943c99ea8a608f8a93f9.png"
+    },
+    {
+      "name": "AMD • Robinhood Token",
+      "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+      "symbol": "AMD",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x86923f96303d656e4aa86d9d42d1e57ad2023fdc.png"
+    },
+    {
+      "name": "Amazon • Robinhood Token",
+      "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+      "symbol": "AMZN",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x12f190a9f9d7d37a250758b26824b97ce941bf54.png"
+    },
+    {
+      "name": "GameStop • Robinhood Token",
+      "address": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+      "symbol": "GME",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x1b0e319c6a659f002271b69db8a7df2f911c153e.png"
+    },
+    {
+      "name": "Alphabet Class A • Robinhood Token",
+      "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      "symbol": "GOOGL",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3.png"
+    },
+    {
+      "name": "Meta Platforms • Robinhood Token",
+      "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+      "symbol": "META",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc0d6457c16cc70d6790dd43521c899c87ce02f35.png"
+    },
+    {
+      "name": "Microsoft • Robinhood Token",
+      "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+      "symbol": "MSFT",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xe93237c50d904957cf27e7b1133b510c669c2e74.png"
+    },
+    {
+      "name": "Netflix • Robinhood Token",
+      "address": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
+      "symbol": "NFLX",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8.png"
+    },
+    {
+      "name": "NVIDIA • Robinhood Token",
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "symbol": "NVDA",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec.png"
+    },
+    {
+      "name": "Sandisk Corporation • Robinhood Token",
+      "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
+      "symbol": "SNDK",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb90a19ff0af67f7779aff50a882a9cff42446400.png"
+    },
+    {
+      "name": "Space Exploration Technologies Corp. Class A Common Stock • Robinhood Token",
+      "address": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
+      "symbol": "SPCX",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea.png"
+    },
+    {
+      "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+      "symbol": "SPY",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x117cc2133c37b721f49de2a7a74833232b3b4c0c.png"
+    },
+    {
+      "name": "Tesla • Robinhood Token",
+      "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+      "symbol": "TSLA",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x322f0929c4625ed5bad873c95208d54e1c003b2d.png"
+    }
+  ]
+}
