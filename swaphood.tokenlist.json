@@ -1,10 +1,10 @@
 {
   "name": "Swaphood Token List",
-  "timestamp": "2026-07-23T17:21:33.271Z",
+  "timestamp": "2026-07-23T18:21:33.271Z",
   "version": {
-    "major": 6,
-    "minor": 9,
-    "patch": 7
+    "major": 7,
+    "minor": 10,
+    "patch": 8
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -112,7 +112,7 @@
       "symbol": "AAPL",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xaf3d76f1834a1d425780943c99ea8a608f8a93f9.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/apple--big.svg"
     },
     {
       "name": "AMD • Robinhood Token",
@@ -120,7 +120,7 @@
       "symbol": "AMD",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x86923f96303d656e4aa86d9d42d1e57ad2023fdc.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices--big.svg"
     },
     {
       "name": "Amazon • Robinhood Token",
@@ -128,7 +128,7 @@
       "symbol": "AMZN",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x12f190a9f9d7d37a250758b26824b97ce941bf54.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/amazon--big.svg"
     },
     {
       "name": "GameStop • Robinhood Token",
@@ -136,7 +136,7 @@
       "symbol": "GME",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x1b0e319c6a659f002271b69db8a7df2f911c153e.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/gamestop--big.svg"
     },
     {
       "name": "Alphabet Class A • Robinhood Token",
@@ -144,7 +144,7 @@
       "symbol": "GOOGL",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/alphabet--big.svg"
     },
     {
       "name": "Meta Platforms • Robinhood Token",
@@ -152,7 +152,7 @@
       "symbol": "META",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xc0d6457c16cc70d6790dd43521c899c87ce02f35.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/meta-platforms--big.svg"
     },
     {
       "name": "Microsoft • Robinhood Token",
@@ -160,7 +160,7 @@
       "symbol": "MSFT",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xe93237c50d904957cf27e7b1133b510c669c2e74.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/microsoft--big.svg"
     },
     {
       "name": "Netflix • Robinhood Token",
@@ -168,7 +168,7 @@
       "symbol": "NFLX",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/netflix--big.svg"
     },
     {
       "name": "NVIDIA • Robinhood Token",
@@ -176,7 +176,7 @@
       "symbol": "NVDA",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/nvidia--big.svg"
     },
     {
       "name": "Sandisk Corporation • Robinhood Token",
@@ -184,7 +184,7 @@
       "symbol": "SNDK",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0xb90a19ff0af67f7779aff50a882a9cff42446400.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/sandisk--big.svg"
     },
     {
       "name": "Space Exploration Technologies Corp. Class A Common Stock • Robinhood Token",
@@ -192,7 +192,7 @@
       "symbol": "SPCX",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/spacex--big.svg"
     },
     {
       "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
@@ -200,7 +200,7 @@
       "symbol": "SPY",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x117cc2133c37b721f49de2a7a74833232b3b4c0c.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/spdr-sandp500-etf-tr--big.svg"
     },
     {
       "name": "Tesla • Robinhood Token",
@@ -208,7 +208,7 @@
       "symbol": "TSLA",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://cdn.robinhood.com/ncw_assets/logos/0x322f0929c4625ed5bad873c95208d54e1c003b2d.png"
+      "logoURI": "https://s3-symbol-logo.tradingview.com/tesla--big.svg"
     }
   ]
 }
