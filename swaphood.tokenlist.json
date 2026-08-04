@@ -1,10 +1,10 @@
 {
   "name": "Swaphood Token List",
-  "timestamp": "2026-07-23T18:21:33.271Z",
+  "timestamp": "2026-08-04T18:21:33.271Z",
   "version": {
-    "major": 7,
-    "minor": 10,
-    "patch": 8
+    "major": 8,
+    "minor": 11,
+    "patch": 9
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -105,6 +105,14 @@
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://cdn.dexscreener.com/cms/images/_dQRN4wt4hctn71c?width=64&height=64&fit=crop&quality=95&format=auto"
+    },
+    {
+      "name": "frong",
+      "address": "0x6245e67affA44a23077f0Ea7f981a8DC743a0c47",
+      "symbol": "FRONG",
+      "decimals": 18,
+      "chainId": 4663,
+      "logoURI": "https://cdn.dexscreener.com/cms/images/zm10U0vUz_wBxnTO?width=64&height=64&fit=crop&quality=95&format=auto"
     },
     {
       "name": "Apple • Robinhood Token",
