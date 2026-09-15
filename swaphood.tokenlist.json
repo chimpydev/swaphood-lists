@@ -1,10 +1,10 @@
 {
   "name": "Swaphood Token List",
-  "timestamp": "2026-08-04T18:21:33.271Z",
+  "timestamp": "2026-09-15T18:21:33.271Z",
   "version": {
-    "major": 8,
-    "minor": 11,
-    "patch": 9
+    "major": 9,
+    "minor": 12,
+    "patch": 10
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -28,16 +28,16 @@
     },
     {
       "name": "SwapHood Token",
-      "address": "0x1FcBc77a759e502E36836b7787C9A8B4f5Da666c",
-      "symbol": "HOOD",
+      "address": "0x1Dc94451241960E9f5197995AA89CA72fc3E68Cc",
+      "symbol": "SWT",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://i.ibb.co/1YWhFMNP/base-logo.png"
+      "logoURI": "https://i.ibb.co/1t0qfKF6/0x1-Dc94451241960-E9f5197995-AA89-CA72fc3-E68-Cc.png"
     },
     {
-      "name": "Hood Liquid Staking Token",
+      "name": "SwapHood Liquid Staking Token",
       "address": "0xA7036C8C28F96e8cE242d0Af45d1B395B69DAF38",
-      "symbol": "h33",
+      "symbol": "s33",
       "decimals": 18,
       "chainId": 4663,
       "logoURI": "https://i.ibb.co/YSy0sXS/h33-logo.png"
