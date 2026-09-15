@@ -1,10 +1,10 @@
 {
   "name": "Swaphood Token List",
-  "timestamp": "2026-09-15T18:21:33.271Z",
+  "timestamp": "2026-09-16T18:21:33.271Z",
   "version": {
-    "major": 9,
-    "minor": 12,
-    "patch": 10
+    "major": 10,
+    "minor": 13,
+    "patch": 13
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -40,7 +40,7 @@
       "symbol": "s33",
       "decimals": 18,
       "chainId": 4663,
-      "logoURI": "https://i.ibb.co/YSy0sXS/h33-logo.png"
+      "logoURI": "https://i.ibb.co/YFHy0GRp/0x9fe4d78202f97e982546fd5f63e2418fef8e4ea2.png"
     },
     {
       "name": "Ethena USDe",
