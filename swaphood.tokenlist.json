@@ -1,10 +1,10 @@
 {
   "name": "Swaphood Token List",
-  "timestamp": "2026-09-16T18:21:33.271Z",
+  "timestamp": "2026-09-16T19:21:33.271Z",
   "version": {
-    "major": 10,
-    "minor": 13,
-    "patch": 13
+    "major": 11,
+    "minor": 14,
+    "patch": 14
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -36,7 +36,7 @@
     },
     {
       "name": "SwapHood Liquid Staking Token",
-      "address": "0xA7036C8C28F96e8cE242d0Af45d1B395B69DAF38",
+      "address": "0x9FE4d78202F97E982546Fd5f63E2418FEf8E4ea2",
       "symbol": "s33",
       "decimals": 18,
       "chainId": 4663,
