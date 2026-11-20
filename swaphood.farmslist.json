@@ -2,9 +2,9 @@
    "name": "SwapHood LP Farms",
    "timestamp": "2026-10-29T19:21:33.271Z",
    "version": {
-      "major": 16,
-      "minor": 17,
-      "patch": 40
+      "major": 17,
+      "minor": 18,
+      "patch": 41
    },
    "tags": {},
    "logoURI": "https://i.ibb.co/BrJtQBC/0xeca14fd925f0a64fc041d38653f25539000e7afa.png",
@@ -23,7 +23,7 @@
          "lp": "",
          "name": "",
          "baseToken": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
-         "rate": 100,
+         "rate": 13,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
@@ -42,7 +42,7 @@
          "lp": "",
          "name": "",
          "baseToken": "0x1Dc94451241960E9f5197995AA89CA72fc3E68Cc",
-         "rate": 100,
+         "rate": 13,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
